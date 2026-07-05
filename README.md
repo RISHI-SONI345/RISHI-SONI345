@@ -3,7 +3,7 @@
 </div>
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=RISHI-SONI345&color=blue)
+
 ## 🚀 About Me
 
 I'm a **Computer Science student at LNCT Bhopal ('26)** and a **Software Engineer Intern** who loves building backend systems that actually scale. I've worked on products serving **10K+ active users** and improved application performance by **40%** through caching, pagination, and optimized API workflows.
@@ -118,3 +118,5 @@ A Python music player application with playlist management and an intuitive inte
   <br/>
   ⭐️ From [RISHI-SONI345](https://github.com/RISHI-SONI345)
 </div>
+
+![Profile Views](https://komarev.com/ghpvc/?username=RISHI-SONI345&color=blue)
