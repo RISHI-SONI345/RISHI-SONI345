@@ -51,8 +51,8 @@ I'm a **Computer Science student at LNCT Bhopal ('26)** and a **Software Enginee
 
 ## 💼 Experience
 
-### **Software Engineer Intern** @ Lost Ferry Interactive
-*Nov 2024 – Mar 2025 · Remote · Mumbai*
+### **Software Engineer ** @ Lost Ferry Interactive
+*Nov 2024 – Nov 2025 · Remote · Mumbai*
 - Worked on **DocIt** — a document workflow platform serving **10K+ active users**
 - Improved application performance by **~40%** via caching, lazy loading, and pagination
 - Built secure document workflow systems with role-based access
