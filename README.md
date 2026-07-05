@@ -3,7 +3,7 @@
 </div>
 
 ---
-
+![Profile Views](https://komarev.com/ghpvc/?username=RISHI-SONI345&color=blue)
 ## 🚀 About Me
 
 I'm a **Computer Science student at LNCT Bhopal ('26)** and a **Software Engineer Intern** who loves building backend systems that actually scale. I've worked on products serving **10K+ active users** and improved application performance by **40%** through caching, pagination, and optimized API workflows.
@@ -13,7 +13,7 @@ I'm a **Computer Science student at LNCT Bhopal ('26)** and a **Software Enginee
 - 👯 I'm looking to collaborate on **Java/Spring Boot open-source projects**
 - 🏆 **SIH'24 Finalist** | **250+ DSA problems solved**
 - 💬 Ask me about **Java, Spring Boot, REST APIs, Flutter, Backend Architecture**
-- 📫 Reach me at **rishisoni2039@gmail.com**
+- 📫 Reach me at **rishisoni1545@gmail.com**
 - ⚡ Fun fact: I turn coffee into code and bugs into features ☕
 
 ---
@@ -105,7 +105,7 @@ A Python music player application with playlist management and an intuitive inte
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishi-soni-7427b4252)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishisoni2039@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishisoni1545@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/rishisoni2039)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RISHI-SONI345)
 
