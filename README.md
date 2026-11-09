@@ -36,7 +36,7 @@
 
 ### 🏛️ Flagship System: StageMinute
 
-> **Production AI Speech-Coaching Platform** · [Live App: stageminute.app](https://stageminute.app)  
+> **Production AI Speech-Coaching Platform** · [Live App: stageminute.app](https://stageminute.app) · [Architecture Blueprint: stageminute-architecture](https://github.com/RISHI-SONI345/stageminute-architecture)  
 > *Stack: Java 21, Spring Boot 4, PostgreSQL 17, Spring Modulith, React Native, OpenAPI, Resilience4j, Sentry*
 
 ```
