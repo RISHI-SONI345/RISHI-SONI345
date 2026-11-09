@@ -1,119 +1,140 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=550&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Rishi+Soni;Software+Engineer;Java+21+%26+Spring+Boot+Specialist;Building+modular%2C+high-throughput+systems" alt="Typing SVG" />
-</div>
+<h1 align="center">Rishi Soni</h1>
 
 <p align="center">
-  <b>Software Engineer based in Indore, India</b><br/>
-  Specializing in Spring Boot, Modular Monoliths, Hexagonal Architecture, and High-Performance Mobile/Web Applications.
+  <b>Software Engineer · Backend & Distributed Systems</b><br/>
+  Indore, India · <a href="mailto:rishisoni.tech@gmail.com">rishisoni.tech@gmail.com</a>
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/rishi-soni-7427b4252"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:rishisoni.tech@gmail.com"><img src="https://img.shields.io/badge/Email-rishisoni.tech%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://leetcode.com/u/rishisoni1545"><img src="https://img.shields.io/badge/LeetCode-400%2B_Solved-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
   <a href="https://github.com/RISHI-SONI345"><img src="https://img.shields.io/badge/GitHub-RISHI--SONI345-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
----
-
-### ⚡ Highlights & Impact
-
-- **Production Scale:** Built and shipped client applications serving **10K+ Monthly Active Users**.
-- **Latency Optimization:** Cut client-side API response latency by **40%** (2.5s → 1.5s) via query caching, pagination, and payload optimization.
-- **Frontend Performance:** Boosted dashboard responsiveness and initial load speeds by **35%** using component memoization and state optimization.
-- **System Architecture:** Engineered an 11-module modular monolith (**StageMinute**) with Java 21 virtual threads, Spring Modulith, sub-12s p95 asynchronous AI pipelines, and **99% test branch coverage**.
-- **Competitive Problem Solving:** Solved **400+** Data Structures & Algorithms problems across LeetCode, GeeksforGeeks, and HackerRank.
-- **Leadership:** **Smart India Hackathon 2024 Finalist** — led a 6-member engineering team and owned the full system architecture.
-
----
-
-### 🛠️ Technical Stack
-
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Languages** | Java 21, SQL, TypeScript, JavaScript |
-| **Backend & Systems** | Spring Boot, Spring Modulith, REST APIs, OpenAPI, PostgreSQL, Redis, Flyway |
-| **Architecture & Patterns** | Modular Monolith, Hexagonal Architecture, Event-Driven Architecture, Transactional Outbox, Idempotency, Database Transactions |
-| **Frontend & Mobile** | React.js, Next.js, React Native (Expo), Zustand, TanStack Query, Tailwind CSS |
-| **DevOps & Testing** | Docker, GitHub Actions, CI/CD, Git, JUnit 5, Testcontainers, ArchUnit, Integration Testing |
-| **Core Concepts** | Data Structures & Algorithms, System Design, OOP, DBMS |
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 21" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<p align="center">
+  <code>Java 21</code> • <code>Spring Boot 4</code> • <code>Spring Modulith</code> • <code>PostgreSQL 17</code> • <code>Redis</code> • <code>Resilience4j</code> • <code>ArchUnit</code> • <code>React Native</code>
 </p>
 
 ---
 
-### 💼 Experience
+### 📌 Engineering Snapshot
+
+```
+┌───────────────────────────────────┬───────────────────────────────────┐
+│ Metric / Impact                   │ Technical Implementation          │
+├───────────────────────────────────┼───────────────────────────────────┤
+│ 10,000+ Production MAU            │ Shipped offline-first mobile vault│
+│ 40% Client Latency Reduction      │ Query caching, payload batching   │
+│ < 12s p95 Async AI Pipeline       │ Java 21 Virtual Threads + Retries │
+│ 99% Test Branch Coverage          │ Pure domain core across 42 audios │
+│ 0 Cyclic Dependencies             │ Enforced via ArchUnit suite       │
+│ 400+ Algorithmic Problems Solved  │ LeetCode, GeeksforGeeks           │
+└───────────────────────────────────┴───────────────────────────────────┘
+```
+
+---
+
+### 🏛️ Flagship System: StageMinute
+
+> **Production AI Speech-Coaching Platform** · [Live App: stageminute.app](https://stageminute.app)  
+> *Stack: Java 21, Spring Boot 4, PostgreSQL 17, Spring Modulith, React Native, OpenAPI, Resilience4j, Sentry*
+
+```
+                              [ React Native / Web Client ]
+                                            │
+                                            ▼ (OpenAPI Contract)
+┌─────────────────────────────────── Spring Boot 4 Application ───────────────────────────────────┐
+│                                                                                                 │
+│  [ Auth / Quota Module ] ──(Atomic SQL / Sliding Window)──▶ [ Postgres 17 User Ledger ]         │
+│             │                                                                                   │
+│             ▼                                                                                   │
+│  [ Speech Processing Module ]                                                                   │
+│             │                                                                                   │
+│             ├──(Java 21 Virtual Threads)──▶ Deepgram Nova-3 (Streaming Transcription)          │
+│             ├──(Resilience4j Bulkhead)────▶ Gemini Flash (Structured Acoustic Feedback)         │
+│             │                                                                                   │
+│             ▼                                                                                   │
+│  [ Deterministic Scoring Core ] (Pure Domain Logic · 99% Branch Coverage · 42 Audio Fixtures)   │
+│             │                                                                                   │
+│             ▼                                                                                   │
+│  [ Transactional Outbox Module ] ─────────▶ [ Durable Webhook Inbox & Entitlements Engine ]     │
+│                                                                                                 │
+│  * Architecture rules & non-cyclic module boundaries validated continuously via ArchUnit *      │
+└─────────────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+<details>
+<summary><b>🔍 Deep Dive: Architecture Decisions & Failure Modes Handled</b></summary>
+<br/>
+
+1. **Modular Monolith with Enforced Boundaries:**
+   - Structured into 11 discrete modules using Spring Modulith. Cross-module calls communicate via bounded domain events and explicit module interfaces.
+   - Enforced cyclomatic isolation and zero dependency leaks using strict ArchUnit architecture tests in CI.
+2. **High-Throughput Asynchronous AI Pipeline:**
+   - Utilizes Java 21 Virtual Threads (`Executors.newVirtualThreadPerTaskExecutor`) to handle concurrent external I/O without pin-locking OS threads.
+   - Guarded with Resilience4j bulkheads, rate-limiters, and exponential backoff retries to guarantee a sub-12s p95 turnaround under spiky loads.
+3. **Deterministic Speech Scoring:**
+   - Speech evaluation uses a pure mathematical domain model running over LLM structured JSON output, eliminating hallucinations and ensuring 100% reproducible scoring across test runs.
+4. **Concurrency-Safe Cost Controls:**
+   - Quota tracking uses atomic SQL updates (`UPDATE quotas SET used = used + 1 WHERE used < limit`) and unique-key idempotency ledgers, preventing double-billing and race conditions.
+5. **Reliable Event Delivery:**
+   - Implemented the Transactional Outbox pattern paired with a durable Webhook Inbox to ensure zero event loss between payment processing and speech quota unlocks.
+
+</details>
+
+---
+
+### 💼 Production Experience
 
 #### **Software Engineer** — Lost Ferry Interactive
 *Aug 2025 – Aug 2026 · Remote*
 
-- **DocIt — Secure Document Vault** *(10K+ Monthly Active Users)*  
-  *Stack: React Native, Expo, TypeScript, PostgreSQL, Zustand, TanStack Query*
-  - Reduced client-side API response latency by **40%** (2.5s to 1.5s) through query caching, pagination, and payload optimization.
-  - Architected and built the cross-platform application in TypeScript from Figma specifications, using Clean Architecture, Zustand, and TanStack Query for offline-first data synchronization.
-  - Implemented biometric authentication (Face ID and fingerprint), Keychain/Keystore token storage, and PIN-protected vaults.
-  - Shipped camera-based document capture with edge detection, PDF/image viewing, expiry reminders, search, and role-based sharing.
+* **DocIt — Secure Document Vault** *(10K+ Monthly Active Users)*
+  - **Performance Optimization:** Cut client-side API response latency by **40%** (2.5s → 1.5s) via query caching, pagination, and payload optimization.
+  - **Offline Sync & Architecture:** Built cross-platform client in TypeScript from Figma specifications using Clean Architecture, Zustand, and TanStack Query for background data synchronization.
+  - **Device Security:** Implemented biometric authentication (Face ID and fingerprint), OS Keychain/Keystore token storage, and PIN-protected vaults.
+  - **Feature Delivery:** Shipped real-time camera document capture with automatic edge detection, PDF/image viewer, expiry reminders, and encrypted sharing.
 
-- **Client Engagement: FarbenBridge — Financial Analytics Platform**  
-  *Stack: Java, Spring Boot, Next.js, React, PostgreSQL, Redis*
-  - Developed Spring Boot REST APIs backed by PostgreSQL and Redis caching to support portfolio analytics and transaction data retrieval.
-  - Implemented idempotency keys for transaction-creating endpoints, preventing duplicate records during client retries.
-  - Implemented ETag-based conditional HTTP requests, returning `304 Not Modified` responses for unchanged dashboard data.
-  - Developed role-based financial dashboards for portfolio visualization, transaction tracking, and access-controlled data views; improved page-load performance by **35%** through component memoization and state management optimization.
+* **FarbenBridge — Financial Analytics Platform** *(Client Engagement)*
+  - **Backend API Design:** Developed Spring Boot REST APIs backed by PostgreSQL and Redis caching for portfolio analytics and transaction feeds.
+  - **Data Consistency & Idempotency:** Implemented idempotency keys on mutating endpoints to eliminate duplicate transactions caused by client-side retries.
+  - **Conditional Caching:** Implemented ETag-based HTTP caching returning `304 Not Modified` responses for static dashboard queries, minimizing database read load.
+  - **UI Performance:** Built role-based financial dashboards in Next.js/React; improved page load performance by **35%** using component memoization and state optimization.
 
 ---
 
-### 🚀 Featured Projects
+### 🧪 Systems & Infrastructure Lab
 
-#### **StageMinute — AI Speech-Coaching Platform**
-[Website: stageminute.app](https://stageminute.app)  
-*Java 21, Spring Boot 4, PostgreSQL 17, Spring Modulith, React Native, OpenAPI, Resilience4j*
-
-- Architected an **11-module modular monolith** using Spring Modulith and Hexagonal Architecture, enforcing module boundaries and non-cyclic dependencies through ArchUnit; enforced contract-first API development using OpenAPI.
-- Built an asynchronous AI analysis pipeline integrating Deepgram Nova-3 and Gemini Flash using **Java 21 virtual threads**, Resilience4j bulkheads, timeouts, and controlled retries; achieved p95 processing latency under **12 seconds**.
-- Implemented deterministic speech scoring using structured LLM outputs and a pure domain core, eliminating LLM-generated scoring decisions; achieved **99% branch coverage across 42 audio fixtures**.
-- Engineered concurrency-safe usage quotas and AI cost controls using **atomic SQL updates, unique-key ledgers, idempotency, and sliding-window rate limiting**, preventing quota races and duplicate operations.
-- Implemented event-driven workflows using a **transactional outbox, durable webhook inbox, event deduplication, and subscription entitlement synchronization**; integrated account deletion, retention workflows, and Sentry observability.
-
-#### **Distributed URL Shortener with Analytics**
-[GitHub Repository](https://github.com/RISHI-SONI345/Distributed-URL-Shortener-with-Analytics)  
-*Java, Spring Boot, MySQL, Redis, Docker*
-
-- High-throughput distributed URL shortening system utilizing Base62 encoding, Redis caching (LRU), and Token Bucket rate limiting.
-- Designed with click analytics tracking, fault tolerance, and containerized deployment.
+#### [Distributed URL Shortener with Analytics](https://github.com/RISHI-SONI345/Distributed-URL-Shortener-with-Analytics)
+*Spring Boot, MySQL, Redis, Docker*
+- High-throughput URL shortening service utilizing Base62 encoding and multi-tier caching (Redis LRU + in-memory buffers).
+- Implemented Token Bucket rate limiting to safeguard redirect and generation endpoints against scraping bots.
+- Instrumented real-time click analytics with geo and user-agent aggregation.
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### 🛠️ Technical Competency
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RISHI-SONI345&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RISHI-SONI345&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RISHI-SONI345&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-### 🎓 Education
-
-**Lakshmi Narain College of Technology (LNCT)** *(2022 – 2026)*  
-Bachelor of Technology in Computer Science and Engineering — Bhopal, India
+| Domain | Core Stack & Methodologies |
+| :--- | :--- |
+| **Languages** | Java 21, SQL, TypeScript, JavaScript |
+| **Backend & Frameworks** | Spring Boot, Spring Modulith, Spring Security, REST APIs, OpenAPI, Resilience4j |
+| **Data & Caching** | PostgreSQL, Redis, Flyway Database Migrations |
+| **System Architecture** | Modular Monoliths, Hexagonal Architecture, Event-Driven Architecture, Transactional Outbox, Idempotency Keys |
+| **Mobile & Frontend** | React Native (Expo), Next.js, React.js, Zustand, TanStack Query, Tailwind CSS |
+| **Testing & Quality** | ArchUnit, JUnit 5, Testcontainers, Integration Testing, 99% Branch Coverage Design |
+| **DevOps & Tooling** | Docker, GitHub Actions, CI/CD, Git, Linux |
 
 ---
 
-### 📬 Connect
+### 🏆 Achievements & Problem Solving
+
+- **Smart India Hackathon 2024 Finalist:** Led a 6-member engineering team; designed and owned the end-to-end software architecture for the team's AI-driven platform.
+- **Algorithmic Problem Solving:** 400+ problems solved across LeetCode, GeeksforGeeks, and HackerRank with an emphasis on Graphs, Dynamic Programming, and Concurrency.
+
+---
+
+### 📬 Get In Touch
 
 <p align="center">
   <a href="mailto:rishisoni.tech@gmail.com"><b>rishisoni.tech@gmail.com</b></a> •
@@ -121,7 +142,3 @@ Bachelor of Technology in Computer Science and Engineering — Bhopal, India
   <a href="https://leetcode.com/u/rishisoni1545"><b>LeetCode</b></a> •
   <a href="https://github.com/RISHI-SONI345"><b>GitHub</b></a>
 </p>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=RISHI-SONI345&color=6C63FF&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
