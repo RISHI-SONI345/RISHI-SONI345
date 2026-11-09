@@ -1,122 +1,127 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Rishi+Soni;Java+%26+Spring+Boot+Developer;Flutter+%7C+Backend+%7C+DSA;Building+scaleable+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=550&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Rishi+Soni;Software+Engineer;Java+21+%26+Spring+Boot+Specialist;Building+modular%2C+high-throughput+systems" alt="Typing SVG" />
 </div>
 
----
+<p align="center">
+  <b>Software Engineer based in Indore, India</b><br/>
+  Specializing in Spring Boot, Modular Monoliths, Hexagonal Architecture, and High-Performance Mobile/Web Applications.
+</p>
 
-## 🚀 About Me
-
-I'm a **Computer Science student at LNCT Bhopal ('26)** and a **Software Engineer Intern** who loves building backend systems that actually scale. I've worked on products serving **10K+ active users** and improved application performance by **40%** through caching, pagination, and optimized API workflows.
-
-- 🔭 I'm currently working on **Spring Boot microservices & distributed systems**
-- 🌱 I'm diving deep into **System Design, Cloud (AWS), and DevOps**
-- 👯 I'm looking to collaborate on **Java/Spring Boot open-source projects**
-- 🏆 **SIH'24 Finalist** | **250+ DSA problems solved**
-- 💬 Ask me about **Java, Spring Boot, REST APIs, Flutter, Backend Architecture**
-- 📫 Reach me at **rishisoni1545@gmail.com**
-- ⚡ Fun fact: I turn coffee into code and bugs into features ☕
+<p align="center">
+  <a href="https://linkedin.com/in/rishi-soni-7427b4252"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:rishisoni.tech@gmail.com"><img src="https://img.shields.io/badge/Email-rishisoni.tech%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://leetcode.com/u/rishisoni1545"><img src="https://img.shields.io/badge/LeetCode-400%2B_Solved-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://github.com/RISHI-SONI345"><img src="https://img.shields.io/badge/GitHub-RISHI--SONI345-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+### ⚡ Highlights & Impact
 
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-### Backend & Frameworks
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
-
-### Databases & Caching
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Tools & Cloud
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+- **Production Scale:** Built and shipped client applications serving **10K+ Monthly Active Users**.
+- **Latency Optimization:** Cut client-side API response latency by **40%** (2.5s → 1.5s) via query caching, pagination, and payload optimization.
+- **Frontend Performance:** Boosted dashboard responsiveness and initial load speeds by **35%** using component memoization and state optimization.
+- **System Architecture:** Engineered an 11-module modular monolith (**StageMinute**) with Java 21 virtual threads, Spring Modulith, sub-12s p95 asynchronous AI pipelines, and **99% test branch coverage**.
+- **Competitive Problem Solving:** Solved **400+** Data Structures & Algorithms problems across LeetCode, GeeksforGeeks, and HackerRank.
+- **Leadership:** **Smart India Hackathon 2024 Finalist** — led a 6-member engineering team and owned the full system architecture.
 
 ---
 
-## 💼 Experience
+### 🛠️ Technical Stack
 
-### **Software Engineer** @ Lost Ferry Interactive
-*Nov 2024 – Nov 2025 · Remote · Mumbai*
-- Worked on **DocIt** — a document workflow platform serving **10K+ active users**
-- Improved application performance by **~40%** via caching, lazy loading, and pagination
-- Built secure document workflow systems with role-based access
-- Collaborated on backend APIs and scalable architecture
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | Java 21, SQL, TypeScript, JavaScript |
+| **Backend & Systems** | Spring Boot, Spring Modulith, REST APIs, OpenAPI, PostgreSQL, Redis, Flyway |
+| **Architecture & Patterns** | Modular Monolith, Hexagonal Architecture, Event-Driven Architecture, Transactional Outbox, Idempotency, Database Transactions |
+| **Frontend & Mobile** | React.js, Next.js, React Native (Expo), Zustand, TanStack Query, Tailwind CSS |
+| **DevOps & Testing** | Docker, GitHub Actions, CI/CD, Git, JUnit 5, Testcontainers, ArchUnit, Integration Testing |
+| **Core Concepts** | Data Structures & Algorithms, System Design, OOP, DBMS |
 
-### **Flutter Developer** @ Katyayani Organics
-*Sep 2024 – Oct 2024 · Bhopal*
-- Built CRM analytics dashboards serving **20K+ users**
-- Implemented RBAC workflows and improved dashboard responsiveness
-
----
-
-## 📌 Featured Projects
-
-### 🎫 Multi-Tenant Ticketing Platform
-A production-grade ticketing system built with **Java, Spring Boot, PostgreSQL, Redis, JWT Auth, and WebSockets**. Features real-time updates, role-based access, and scalable architecture.
-
-### 🗣️ AI-Powered English Fluency Platform
-An intelligent platform leveraging AI to help users improve English fluency with real-time feedback, progress tracking, and personalized learning paths.
-
-### 📱 ApnaBazzar (E-Commerce App)
-[![ApnaBazzar](https://img.shields.io/badge/View-Repo-blue?style=flat-square)](https://github.com/RISHI-SONI345/ApnaBazzar)
-A full-featured e-commerce Flutter application with a **Spring Boot backend**, supporting real-time inventory, order management, and a seamless mobile shopping experience.
-
-### 🖥️ Voice Assistant for PC
-A Python-based voice assistant with speech recognition, text-to-speech, and a CustomTkinter GUI for hands-free PC control.
-
-### 🎵 Music Player
-A Python music player application with playlist management and an intuitive interface.
+<p align="left">
+  <img src="https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 21" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+### 💼 Experience
+
+#### **Software Engineer** — Lost Ferry Interactive
+*Aug 2025 – Aug 2026 · Remote*
+
+- **DocIt — Secure Document Vault** *(10K+ Monthly Active Users)*  
+  *Stack: React Native, Expo, TypeScript, PostgreSQL, Zustand, TanStack Query*
+  - Reduced client-side API response latency by **40%** (2.5s to 1.5s) through query caching, pagination, and payload optimization.
+  - Architected and built the cross-platform application in TypeScript from Figma specifications, using Clean Architecture, Zustand, and TanStack Query for offline-first data synchronization.
+  - Implemented biometric authentication (Face ID and fingerprint), Keychain/Keystore token storage, and PIN-protected vaults.
+  - Shipped camera-based document capture with edge detection, PDF/image viewing, expiry reminders, search, and role-based sharing.
+
+- **Client Engagement: FarbenBridge — Financial Analytics Platform**  
+  *Stack: Java, Spring Boot, Next.js, React, PostgreSQL, Redis*
+  - Developed Spring Boot REST APIs backed by PostgreSQL and Redis caching to support portfolio analytics and transaction data retrieval.
+  - Implemented idempotency keys for transaction-creating endpoints, preventing duplicate records during client retries.
+  - Implemented ETag-based conditional HTTP requests, returning `304 Not Modified` responses for unchanged dashboard data.
+  - Developed role-based financial dashboards for portfolio visualization, transaction tracking, and access-controlled data views; improved page-load performance by **35%** through component memoization and state management optimization.
+
+---
+
+### 🚀 Featured Projects
+
+#### **StageMinute — AI Speech-Coaching Platform**
+[Website: stageminute.app](https://stageminute.app)  
+*Java 21, Spring Boot 4, PostgreSQL 17, Spring Modulith, React Native, OpenAPI, Resilience4j*
+
+- Architected an **11-module modular monolith** using Spring Modulith and Hexagonal Architecture, enforcing module boundaries and non-cyclic dependencies through ArchUnit; enforced contract-first API development using OpenAPI.
+- Built an asynchronous AI analysis pipeline integrating Deepgram Nova-3 and Gemini Flash using **Java 21 virtual threads**, Resilience4j bulkheads, timeouts, and controlled retries; achieved p95 processing latency under **12 seconds**.
+- Implemented deterministic speech scoring using structured LLM outputs and a pure domain core, eliminating LLM-generated scoring decisions; achieved **99% branch coverage across 42 audio fixtures**.
+- Engineered concurrency-safe usage quotas and AI cost controls using **atomic SQL updates, unique-key ledgers, idempotency, and sliding-window rate limiting**, preventing quota races and duplicate operations.
+- Implemented event-driven workflows using a **transactional outbox, durable webhook inbox, event deduplication, and subscription entitlement synchronization**; integrated account deletion, retention workflows, and Sentry observability.
+
+#### **Distributed URL Shortener with Analytics**
+[GitHub Repository](https://github.com/RISHI-SONI345/Distributed-URL-Shortener-with-Analytics)  
+*Java, Spring Boot, MySQL, Redis, Docker*
+
+- High-throughput distributed URL shortening system utilizing Base62 encoding, Redis caching (LRU), and Token Bucket rate limiting.
+- Designed with click analytics tracking, fault tolerance, and containerized deployment.
+
+---
+
+### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RISHI-SONI345&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RISHI-SONI345&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RISHI-SONI345&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RISHI-SONI345&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RISHI-SONI345&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RISHI-SONI345&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</div>
+---
+
+### 🎓 Education
+
+**Lakshmi Narain College of Technology (LNCT)** *(2022 – 2026)*  
+Bachelor of Technology in Computer Science and Engineering — Bhopal, India
 
 ---
 
-## 🌐 Connect with Me
+### 📬 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishi-soni-7427b4252)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishisoni1545@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/rishisoni2039)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RISHI-SONI345)
-
----
+<p align="center">
+  <a href="mailto:rishisoni.tech@gmail.com"><b>rishisoni.tech@gmail.com</b></a> •
+  <a href="https://linkedin.com/in/rishi-soni-7427b4252"><b>LinkedIn</b></a> •
+  <a href="https://leetcode.com/u/rishisoni1545"><b>LeetCode</b></a> •
+  <a href="https://github.com/RISHI-SONI345"><b>GitHub</b></a>
+</p>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=RISHI-SONI345&color=6C63FF&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  <br/>
-  <i>"First, solve the problem. Then, write the code."</i>
-  <br/>
-  ⭐️ From [RISHI-SONI345](https://github.com/RISHI-SONI345)
 </div>
-
-![Profile Views](https://komarev.com/ghpvc/?username=RISHI-SONI345&color=blue)
